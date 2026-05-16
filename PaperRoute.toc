@@ -1,0 +1,7 @@
+## Interface: 20503
+## Title: PaperRoute
+## Notes: Mailbox cleanup and quick item attachment for TBC 2.5.3.
+## Author: THEO
+## Version: 1.0.1
+## SavedVariables: PaperRouteDB
+PaperRoute.lua
